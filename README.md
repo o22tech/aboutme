@@ -72,9 +72,9 @@ To provide innovative and reliable technology solutions that empower businesses 
 
 ### Connect With Us
 
-* GitHub: [https://github.com/](https://github.com/)
-* Email: [your-email@example.com](mailto:olamitobitechnologies@gmail.com)
-* Website: [https://yourwebsite.com](https://royeweb.vercel.app)
+* GitHub: https://github.com/o22tech
+* Email: olamitobitechnologies@gmail.com
+* Website: https://royeweb.vercel.app
 
 ---
 
