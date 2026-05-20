@@ -84,4 +84,4 @@ To provide innovative and reliable technology solutions that empower businesses 
 
 ---
 
-### ⭐ Follow Mactech Nigeria for innovative software projects, mobile apps, and technology solutions.
+### ⭐ Follow Olamitobi Technologies for innovative software projects, mobile apps, and technology solutions.
